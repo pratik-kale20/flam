@@ -51,7 +51,7 @@
     <string name="settings_about_summary">Notification Log on GitHub. Licensed under the MIT License.</string>
 
     <!-- Version -->
-    <string name="settings_version">Version</string>
+    <string name="settings_version">Group 1 \nPratik Kale\nShwetali Desai\nAventika Khemani</string>
 
     <!-- Details -->
     <string name="details_error">Unable to load the details of this entry.</string>
